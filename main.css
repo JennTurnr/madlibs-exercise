@@ -68,12 +68,12 @@ input {
 
 #city {
 	color: white;
-	text-decoration: underline;
+	/* text-decoration: underline; */
 }
 
 #month {
 	color: white;
-	text-decoration: underline;
+	/* text-decoration: underline; */
 }
 
 #country {
